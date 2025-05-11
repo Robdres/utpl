@@ -1,0 +1,1025 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+AETSA%
+}{%
+AETSA%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+AETSA}
+\APACinsertmetastar {%
+AETSA}%
+\begin{APACrefauthors}%
+AETSA.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Herramienta de ayuda a la toma de decisiones de pacientes susceptibles de diálisis} {Herramienta de ayuda a la toma de decisiones de pacientes susceptibles de diálisis}.{\BBCQ}
+\newblock
+\begin{APACrefURL} \url{https://www.aetsa.org/download/publicaciones/antiguas/\\AETSA\_2009-8\_HATD\_ERC.pdf} \end{APACrefURL}
+\newblock
+\APACrefnote{Consultado el {10} de {mayo} de {2025}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+ahmetbersoz%
+}{%
+ahmetbersoz%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+githubGitHubAhmetbersozchatgptpromptsforacademicwriting}
+\APACinsertmetastar {%
+githubGitHubAhmetbersozchatgptpromptsforacademicwriting}%
+\begin{APACrefauthors}%
+ahmetbersoz.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {{G}it{H}ub - ahmetbersoz/chatgpt-prompts-for-academic-writing: {T}his list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. --- github.com.} {{G}it{H}ub - ahmetbersoz/chatgpt-prompts-for-academic-writing: {T}his list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. --- github.com.}
+\newblock
+\APAChowpublished {\url{https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing}}.
+\newblock
+\APACrefnote{Consultado el {10} de {mayo} de {2025}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Alba%
+\ \protect \BOthers {.}}{%
+Alba%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+alba2017discrimination}
+\APACinsertmetastar {%
+alba2017discrimination}%
+\begin{APACrefauthors}%
+Alba, A\BPBI C.%
+, Agoritsas, T.%
+, Walsh, M.%
+, Hanna, S.%
+, Iorio, A.%
+, Devereaux, P\BPBI J.%
+\BDBL {}Guyatt, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Discrimination and calibration of clinical prediction models: users' guides to the medical literature} {Discrimination and calibration of clinical prediction models: users' guides to the medical literature}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Jama}{318}{14}{1377--1384}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bardo%
+}{%
+Bardo%
+}{%
+{\protect \APACyear {2025}}%
+}]{%
+promptadvanceChatGPTPrompts}
+\APACinsertmetastar {%
+promptadvanceChatGPTPrompts}%
+\begin{APACrefauthors}%
+Bardo, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{marzo}{}.
+\newblock
+\APACrefbtitle {10 {C}hat{G}{P}{T} {P}rompts for {P}owerful {A}cademic {W}riting --- promptadvance.club.} {10 {C}hat{G}{P}{T} {P}rompts for {P}owerful {A}cademic {W}riting --- promptadvance.club.}
+\newblock
+\APAChowpublished {\url{https://promptadvance.club/blog/chat-gpt-prompts-for-academic-writing}}.
+\newblock
+\APACrefnote{Consultado el {10} de {mayo} de {2025}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Breiman%
+}{%
+Breiman%
+}{%
+{\protect \APACyear {2001}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+Breiman2001}
+\APACinsertmetastar {%
+Breiman2001}%
+\begin{APACrefauthors}%
+Breiman, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Random Forests} {Random forests}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine Learning}{45}{1}{5--32}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Breiman%
+}{%
+Breiman%
+}{%
+{\protect \APACyear {2001}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+breiman2001random}
+\APACinsertmetastar {%
+breiman2001random}%
+\begin{APACrefauthors}%
+Breiman, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Random forests} {Random forests}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine learning}{45}{1}{5--32}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Brier%
+}{%
+Brier%
+}{%
+{\protect \APACyear {1950}}%
+}]{%
+brier1950verification}
+\APACinsertmetastar {%
+brier1950verification}%
+\begin{APACrefauthors}%
+Brier, G\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1950}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Verification of forecasts expressed in terms of probability} {Verification of forecasts expressed in terms of probability}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Monthly weather review}{78}{1}{1--3}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Brooke%
+}{%
+Brooke%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+brooke1996sus}
+\APACinsertmetastar {%
+brooke1996sus}%
+\begin{APACrefauthors}%
+Brooke, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {SUS-A quick and dirty usability scale} {Sus-a quick and dirty usability scale}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Usability evaluation in industry}{189}{194}{4--7}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Buuren%
+\ \BBA {} Groothuis-Oudshoorn%
+}{%
+Buuren%
+\ \BBA {} Groothuis-Oudshoorn%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+buuren2011mice}
+\APACinsertmetastar {%
+buuren2011mice}%
+\begin{APACrefauthors}%
+Buuren, S.%
+\BCBT {}\ \BBA {} Groothuis-Oudshoorn, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {mice: Multivariate imputation by chained equations in R} {mice: Multivariate imputation by chained equations in r}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of statistical software}{45}{3}{1--67}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Caruana%
+\ \protect \BOthers {.}}{%
+Caruana%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+caruana2015intelligible}
+\APACinsertmetastar {%
+caruana2015intelligible}%
+\begin{APACrefauthors}%
+Caruana, R.%
+, Lou, Y.%
+, Gehrke, J.%
+, Koch, P.%
+, Sturm, M.%
+\BCBL {}\ \BBA {} Elhadad, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission} {Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}{}{}{1721--1730}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Char%
+, Shah%
+\BCBL {}\ \BBA {} Magnus%
+}{%
+Char%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+char2018implementing}
+\APACinsertmetastar {%
+char2018implementing}%
+\begin{APACrefauthors}%
+Char, D\BPBI S.%
+, Shah, N\BPBI H.%
+\BCBL {}\ \BBA {} Magnus, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Implementing machine learning in health care—addressing ethical challenges} {Implementing machine learning in health care—addressing ethical challenges}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The New England journal of medicine}{378}{11}{981}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chen%
+\ \BBA {} Guestrin%
+}{%
+Chen%
+\ \BBA {} Guestrin%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Chen2016}
+\APACinsertmetastar {%
+Chen2016}%
+\begin{APACrefauthors}%
+Chen, T.%
+\BCBT {}\ \BBA {} Guestrin, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{XGBoost}: A Scalable Tree Boosting System} {{XGBoost}: A scalable tree boosting system}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining} {Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining}\ (\BPGS\ 785--794).
+\newblock
+\APACaddressPublisher{}{ACM}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cohen%
+\ \BBA {} Mello%
+}{%
+Cohen%
+\ \BBA {} Mello%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+cohen2018hipaa}
+\APACinsertmetastar {%
+cohen2018hipaa}%
+\begin{APACrefauthors}%
+Cohen, I\BPBI G.%
+\BCBT {}\ \BBA {} Mello, M\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {HIPAA and protecting health information in the 21st century} {Hipaa and protecting health information in the 21st century}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Jama}{320}{3}{231--232}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cortes%
+\ \BBA {} Vapnik%
+}{%
+Cortes%
+\ \BBA {} Vapnik%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+Cortes1995}
+\APACinsertmetastar {%
+Cortes1995}%
+\begin{APACrefauthors}%
+Cortes, C.%
+\BCBT {}\ \BBA {} Vapnik, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1995}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Support-Vector Networks} {Support-vector networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine Learning}{20}{3}{273--297}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Davis%
+\ \BBA {} Goadrich%
+}{%
+Davis%
+\ \BBA {} Goadrich%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+davis2006relationship}
+\APACinsertmetastar {%
+davis2006relationship}%
+\begin{APACrefauthors}%
+Davis, J.%
+\BCBT {}\ \BBA {} Goadrich, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The relationship between Precision-Recall and ROC curves} {The relationship between precision-recall and roc curves}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 23rd international conference on Machine learning} {Proceedings of the 23rd international conference on machine learning}\ (\BPGS\ 233--240).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fawcett%
+}{%
+Fawcett%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Fawcett2006}
+\APACinsertmetastar {%
+Fawcett2006}%
+\begin{APACrefauthors}%
+Fawcett, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An Introduction to {ROC} Analysis} {An introduction to {ROC} analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Pattern Recognition Letters}{27}{8}{861--874}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+García%
+\ \BBA {} Romero%
+}{%
+García%
+\ \BBA {} Romero%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Garcia2018}
+\APACinsertmetastar {%
+Garcia2018}%
+\begin{APACrefauthors}%
+García, C.%
+\BCBT {}\ \BBA {} Romero, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {Preprocesamiento de Datos para Machine Learning} {Preprocesamiento de datos para machine learning}.
+\newblock
+\APACaddressPublisher{}{Editorial Universitaria}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gonzalez%
+}{%
+Gonzalez%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+EscalonaGonzales1}
+\APACinsertmetastar {%
+EscalonaGonzales1}%
+\begin{APACrefauthors}%
+Gonzalez, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {Inteligencia artificial en la prediccion de mortalidad por enfermedad renal cronica} {Inteligencia artificial en la prediccion de mortalidad por enfermedad renal cronica}\ (\BVOL~12)\ (\BNUM~3).
+\newblock
+\APACrefnote{Consultado el {10} de {mayo} de {2025}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Goodfellow%
+, Bengio%
+\BCBL {}\ \BBA {} Courville%
+}{%
+Goodfellow%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Goodfellow2016}
+\APACinsertmetastar {%
+Goodfellow2016}%
+\begin{APACrefauthors}%
+Goodfellow, I.%
+, Bengio, Y.%
+\BCBL {}\ \BBA {} Courville, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {Deep Learning} {Deep learning}.
+\newblock
+\APACaddressPublisher{}{MIT Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Greenhalgh%
+\ \protect \BOthers {.}}{%
+Greenhalgh%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+greenhalgh2017beyond}
+\APACinsertmetastar {%
+greenhalgh2017beyond}%
+\begin{APACrefauthors}%
+Greenhalgh, T.%
+, Wherton, J.%
+, Papoutsi, C.%
+, Lynch, J.%
+, Hughes, G.%
+, A'Court, C.%
+\BDBL {}Shaw, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Beyond adoption: a new framework for theorizing and evaluating nonadoption, abandonment, and challenges to the scale-up, spread, and sustainability of health and care technologies} {Beyond adoption: a new framework for theorizing and evaluating nonadoption, abandonment, and challenges to the scale-up, spread, and sustainability of health and care technologies}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of medical Internet research}{19}{11}{e367}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Guyon%
+\ \BBA {} Elisseeff%
+}{%
+Guyon%
+\ \BBA {} Elisseeff%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+guyon2003introduction}
+\APACinsertmetastar {%
+guyon2003introduction}%
+\begin{APACrefauthors}%
+Guyon, I.%
+\BCBT {}\ \BBA {} Elisseeff, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An introduction to variable and feature selection} {An introduction to variable and feature selection}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of machine learning research}{3}{Mar}{1157--1182}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Géron%
+}{%
+Géron%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+geron2019hands}
+\APACinsertmetastar {%
+geron2019hands}%
+\begin{APACrefauthors}%
+Géron, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2019}.
+\newblock
+\APACrefbtitle {Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems} {Hands-on machine learning with scikit-learn, keras, and tensorflow: Concepts, tools, and techniques to build intelligent systems}.
+\newblock
+\APACaddressPublisher{}{O'Reilly Media, Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hastie%
+, Tibshirani%
+\BCBL {}\ \BBA {} Friedman%
+}{%
+Hastie%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+hastie2009elements}
+\APACinsertmetastar {%
+hastie2009elements}%
+\begin{APACrefauthors}%
+Hastie, T.%
+, Tibshirani, R.%
+\BCBL {}\ \BBA {} Friedman, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {The elements of statistical learning: data mining, inference, and prediction} {The elements of statistical learning: data mining, inference, and prediction}.
+\newblock
+\APACaddressPublisher{}{Springer Science \& Business Media}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hosmer%
+, Lemeshow%
+\BCBL {}\ \BBA {} Sturdivant%
+}{%
+Hosmer%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Hosmer2013}
+\APACinsertmetastar {%
+Hosmer2013}%
+\begin{APACrefauthors}%
+Hosmer, D\BPBI W.%
+, Lemeshow, S.%
+\BCBL {}\ \BBA {} Sturdivant, R\BPBI X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Applied Logistic Regression} {Applied logistic regression}\ (\PrintOrdinal{3}\ \BEd).
+\newblock
+\APACaddressPublisher{}{John Wiley \& Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hosmer~Jr%
+, Lemeshow%
+\BCBL {}\ \BBA {} Sturdivant%
+}{%
+Hosmer~Jr%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+hosmer2013applied}
+\APACinsertmetastar {%
+hosmer2013applied}%
+\begin{APACrefauthors}%
+Hosmer~Jr, D\BPBI W.%
+, Lemeshow, S.%
+\BCBL {}\ \BBA {} Sturdivant, R\BPBI X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Applied logistic regression} {Applied logistic regression}.
+\newblock
+\APACaddressPublisher{}{John Wiley \& Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+James%
+, Witten%
+, Hastie%
+\BCBL {}\ \BBA {} Tibshirani%
+}{%
+James%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+James2013}
+\APACinsertmetastar {%
+James2013}%
+\begin{APACrefauthors}%
+James, G.%
+, Witten, D.%
+, Hastie, T.%
+\BCBL {}\ \BBA {} Tibshirani, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {An Introduction to Statistical Learning with Applications in R} {An introduction to statistical learning with applications in r}.
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Johnson%
+}{%
+Johnson%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+johnson2005designing}
+\APACinsertmetastar {%
+johnson2005designing}%
+\begin{APACrefauthors}%
+Johnson, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Designing with the mind in mind: Simple guide to understanding user interface design guidelines} {Designing with the mind in mind: Simple guide to understanding user interface design guidelines}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Morgan Kaufmann}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kohavi%
+\ \BBA {} John%
+}{%
+Kohavi%
+\ \BBA {} John%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+kohavi1997wrappers}
+\APACinsertmetastar {%
+kohavi1997wrappers}%
+\begin{APACrefauthors}%
+Kohavi, R.%
+\BCBT {}\ \BBA {} John, G\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Wrappers for feature subset selection} {Wrappers for feature subset selection}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Artificial intelligence}{97}{1-2}{273--324}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kuhn%
+\ \BBA {} Johnson%
+}{%
+Kuhn%
+\ \BBA {} Johnson%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Kuhn2013}
+\APACinsertmetastar {%
+Kuhn2013}%
+\begin{APACrefauthors}%
+Kuhn, M.%
+\BCBT {}\ \BBA {} Johnson, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Applied Predictive Modeling} {Applied predictive modeling}.
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Matheny%
+, Thadaney~Israni%
+, Ahmed%
+\BCBL {}\ \BBA {} Whicher%
+}{%
+Matheny%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+matheny2020artificial}
+\APACinsertmetastar {%
+matheny2020artificial}%
+\begin{APACrefauthors}%
+Matheny, M.%
+, Thadaney~Israni, S.%
+, Ahmed, M.%
+\BCBL {}\ \BBA {} Whicher, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Artificial intelligence in health care: The hope, the hype, the promise, the peril} {Artificial intelligence in health care: The hope, the hype, the promise, the peril}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{NAM Special Publication. Washington, DC: National Academy of Medicine}{154}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Ministerio de Salud de Chile}%
+}{%
+{Ministerio de Salud de Chile}%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+MinisterioSaludChile2010}
+\APACinsertmetastar {%
+MinisterioSaludChile2010}%
+\begin{APACrefauthors}%
+{Ministerio de Salud de Chile}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2010}.
+\newblock
+\APACrefbtitle {Guía Clinica 2010 Prevención Enfermedad Renal Crónica} {Guía clinica 2010 prevención enfermedad renal crónica}.
+\newblock
+\APACaddressPublisher{}{Subsecretaría de Salud Pública}.
+\newblock
+\begin{APACrefURL} \url{https://www.superdesalud.gob.cl/difusion/572/articles-6453\_recurso\_1.pdf} \end{APACrefURL}
+\newblock
+\APACrefnote{Consultado el {10} de {mayo} de {2025}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Obermeyer%
+, Powers%
+, Vogeli%
+\BCBL {}\ \BBA {} Mullainathan%
+}{%
+Obermeyer%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+obermeyer2019dissecting}
+\APACinsertmetastar {%
+obermeyer2019dissecting}%
+\begin{APACrefauthors}%
+Obermeyer, Z.%
+, Powers, B.%
+, Vogeli, C.%
+\BCBL {}\ \BBA {} Mullainathan, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dissecting racial bias in an algorithm used to manage the health of populations} {Dissecting racial bias in an algorithm used to manage the health of populations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science}{366}{6464}{447--453}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Okorie%
+}{%
+Okorie%
+}{%
+{\protect \APACyear {2025}}%
+}]{%
+techpointBestChatGPT}
+\APACinsertmetastar {%
+techpointBestChatGPT}%
+\begin{APACrefauthors}%
+Okorie, I\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+\APACrefbtitle {{M}y best {C}hat{G}{P}{T} prompts for academic writing --- techpoint.africa.} {{M}y best {C}hat{G}{P}{T} prompts for academic writing --- techpoint.africa.}
+\newblock
+\APAChowpublished {\url{https://techpoint.africa/guide/best-chatgpt- prompts-for-academic-writing/}}.
+\newblock
+\APACrefnote{Consultado el {10} de {mayo} de {2025}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pillajo~Sánchez%
+, Guacho~Guacho%
+\BCBL {}\ \BBA {} Moya~Guerrero%
+}{%
+Pillajo~Sánchez%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+PillajoSanchez2021}
+\APACinsertmetastar {%
+PillajoSanchez2021}%
+\begin{APACrefauthors}%
+Pillajo~Sánchez, B\BPBI L.%
+, Guacho~Guacho, J\BPBI S.%
+\BCBL {}\ \BBA {} Moya~Guerrero, I\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {La enfermedad renal crónica. Revisión de la literatura y experiencia local en una ciudad de Ecuador} {La enfermedad renal crónica. revisión de la literatura y experiencia local en una ciudad de ecuador}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Revista de Ciencias de la Salud}{5}{1}{396--409}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Powers%
+}{%
+Powers%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+powers2011evaluation}
+\APACinsertmetastar {%
+powers2011evaluation}%
+\begin{APACrefauthors}%
+Powers, D\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Evaluation: from precision, recall and F-measure to ROC, informedness, markedness and correlation} {Evaluation: from precision, recall and f-measure to roc, informedness, markedness and correlation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Machine Learning Technologies}{2}{1}{37--63}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Quinlan%
+}{%
+Quinlan%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+quinlan1986induction}
+\APACinsertmetastar {%
+quinlan1986induction}%
+\begin{APACrefauthors}%
+Quinlan, J\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1986}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Induction of decision trees} {Induction of decision trees}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine learning}{1}{1}{81--106}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sendak%
+, Gao%
+, Brajer%
+\BCBL {}\ \BBA {} Balu%
+}{%
+Sendak%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+sendak2020path}
+\APACinsertmetastar {%
+sendak2020path}%
+\begin{APACrefauthors}%
+Sendak, M\BPBI P.%
+, Gao, M.%
+, Brajer, N.%
+\BCBL {}\ \BBA {} Balu, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A path for translation of machine learning products into healthcare delivery} {A path for translation of machine learning products into healthcare delivery}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{EMJ Innov}{5}{}{1--5}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sutton%
+\ \protect \BOthers {.}}{%
+Sutton%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+sutton2020overview}
+\APACinsertmetastar {%
+sutton2020overview}%
+\begin{APACrefauthors}%
+Sutton, R\BPBI T.%
+, Pincock, D.%
+, Baumgart, D\BPBI C.%
+, Sadowski, D\BPBI C.%
+, Fedorak, R\BPBI N.%
+\BCBL {}\ \BBA {} Kroeker, K\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An overview of clinical decision support systems: benefits, risks, and strategies for success} {An overview of clinical decision support systems: benefits, risks, and strategies for success}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{NPJ Digital Medicine}{3}{1}{1--10}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+SysmexEspaña%
+}{%
+SysmexEspaña%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+SysmexEspana}
+\APACinsertmetastar {%
+SysmexEspana}%
+\begin{APACrefauthors}%
+SysmexEspaña.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {La importancia de la detección precoz de la Enfermedad Renal Crónica.} {La importancia de la detección precoz de la enfermedad renal crónica.}
+\newblock
+\APACaddressPublisher{}{Sysmex España}.
+\newblock
+\begin{APACrefURL} \url{https://www.sysmex.es/academia/centro-de-conocimiento/sysmex-blog/urianalisis\\ /dia-mundial-del-rinon-2022/} \end{APACrefURL}
+\newblock
+\APACrefnote{Consultado el {10} de {mayo} de {2025}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tibshirani%
+}{%
+Tibshirani%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+tibshirani1996regression}
+\APACinsertmetastar {%
+tibshirani1996regression}%
+\begin{APACrefauthors}%
+Tibshirani, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Regression shrinkage and selection via the lasso} {Regression shrinkage and selection via the lasso}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Royal Statistical Society: Series B (Methodological)}{58}{1}{267--288}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhang%
+\ \protect \BOthers {.}}{%
+Zhang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Zhang2011}
+\APACinsertmetastar {%
+Zhang2011}%
+\begin{APACrefauthors}%
+Zhang, J.%
+, Johnson, T\BPBI R.%
+, Turley, J\BPBI P.%
+, Hogan, J.%
+, Palmer, R\BPBI M.%
+\BCBL {}\ \BBA {} Gabriel, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Role of Usability in Clinical Decision Support} {The role of usability in clinical decision support}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{AMIA Joint Summits on Translational Science}{2011}{}{142--146}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

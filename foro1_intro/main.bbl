@@ -1,0 +1,134 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Alvarado-Moreira%
+\ \BBA {} Ibarra~Fiallo%
+}{%
+Alvarado-Moreira%
+\ \BBA {} Ibarra~Fiallo%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+inbook}
+\APACinsertmetastar {%
+inbook}%
+\begin{APACrefauthors}%
+Alvarado-Moreira, R.%
+\BCBT {}\ \BBA {} Ibarra~Fiallo, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{07}{}.
+\newblock
+{\BBOQ}\APACrefatitle {New Approach to Facial Expression Recognition and
+  Classification Using Typical Testors} {New approach to facial expression
+  recognition and classification using typical testors}.{\BBCQ}
+\newblock
+\BIn{} (\BPG~406-414).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Breiman%
+}{%
+Breiman%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+Breiman2001}
+\APACinsertmetastar {%
+Breiman2001}%
+\begin{APACrefauthors}%
+Breiman, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{Oct}{01}.
+\newblock
+{\BBOQ}\APACrefatitle {Random Forests} {Random forests}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine Learning}{45}{1}{5-32}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1023/A:1010933404324}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1023/A:1010933404324} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jiménez%
+}{%
+Jiménez%
+}{%
+{\protect \APACyear {2025}}%
+}]{%
+yu1}
+\APACinsertmetastar {%
+yu1}%
+\begin{APACrefauthors}%
+Jiménez, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+\APACrefbtitle {Propuesta de Trabajo de Titulación.} {Propuesta de trabajo de
+  titulación.}
+\newblock
+\APACaddressPublisher{}{UTPL}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schmidt%
+}{%
+Schmidt%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+DBL}
+\APACinsertmetastar {%
+DBL}%
+\begin{APACrefauthors}%
+Schmidt, R\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Recurrent Neural Networks (RNNs): {A} gentle
+  Introduction and Overview} {Recurrent neural networks (rnns): {A} gentle
+  introduction and overview}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{CoRR}{abs/1912.05911}{}{}.
+\newblock
+\begin{APACrefURL} \url{http://arxiv.org/abs/1912.05911} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Steinwart%
+\ \BBA {} Christmann%
+}{%
+Steinwart%
+\ \BBA {} Christmann%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+steinwart2008support}
+\APACinsertmetastar {%
+steinwart2008support}%
+\begin{APACrefauthors}%
+Steinwart, I.%
+\BCBT {}\ \BBA {} Christmann, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\newblock
+\APACrefbtitle {Support Vector Machines} {Support vector machines}.
+\newblock
+\APACaddressPublisher{}{Springer New York}.
+\newblock
+\begin{APACrefURL} \url{https://books.google.cl/books?id=HUnqnrpYt4IC}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

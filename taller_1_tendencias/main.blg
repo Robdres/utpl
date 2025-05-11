@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2026/dev/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=8) to 20 items from 10.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Database file #1: main.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No journal in AETSA
+ptr=1, stack=
+
+---the literal stack isn't empty for entry AETSA
+while executing---line 5079 of file apacite.bst
+You've used 41 entries,
+            6951 wiz_defined-function locations,
+            1521 strings with 18327 characters,
+and the built_in function-call counts, 78195 in all, are:
+= -- 9529
+> -- 651
+< -- 3890
++ -- 3903
+- -- 91
+* -- 5052
+:= -- 14561
+add.period$ -- 170
+call.type$ -- 41
+change.case$ -- 678
+chr.to.int$ -- 0
+cite$ -- 83
+duplicate$ -- 2087
+empty$ -- 3088
+format.name$ -- 1088
+if$ -- 14757
+int.to.chr$ -- 0
+int.to.str$ -- 127
+missing$ -- 0
+newline$ -- 1025
+num.names$ -- 328
+pop$ -- 1525
+preamble$ -- 1
+purify$ -- 163
+quote$ -- 0
+skip$ -- 4800
+stack$ -- 0
+substring$ -- 4221
+swap$ -- 1196
+text.length$ -- 102
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 3408
+warning$ -- 1
+while$ -- 368
+width$ -- 0
+write$ -- 1260
+(There was 1 error message)
