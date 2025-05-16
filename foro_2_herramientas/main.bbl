@@ -1,0 +1,291 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{DeepNote Team}%
+}{%
+{DeepNote Team}%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+deepnote_docs}
+\APACinsertmetastar {%
+deepnote_docs}%
+\begin{APACrefauthors}%
+{DeepNote Team}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {DeepNote Documentation.} {Deepnote documentation.}
+\newblock
+\begin{APACrefURL} \url{https://docs.deepnote.com/} \end{APACrefURL}
+\newblock
+\APACrefnote{Accedido: Mayo 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Google Research}%
+}{%
+{Google Research}%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+colab_faqs}
+\APACinsertmetastar {%
+colab_faqs}%
+\begin{APACrefauthors}%
+{Google Research}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {Colaboratory Frequently Asked Questions.} {Colaboratory frequently asked questions.}
+\newblock
+\begin{APACrefURL} \url{https://research.google.com/colaboratory/faq.html} \end{APACrefURL}
+\newblock
+\APACrefnote{Accedido: Mayo 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Google Research}%
+}{%
+{Google Research}%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+google_colab_docs}
+\APACinsertmetastar {%
+google_colab_docs}%
+\begin{APACrefauthors}%
+{Google Research}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {Welcome to Colaboratory.} {Welcome to colaboratory.}
+\newblock
+\begin{APACrefURL} \url{https://colab.research.google.com/notebooks/welcome.ipynb} \end{APACrefURL}
+\newblock
+\APACrefnote{Accedido: Mayo 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Johnson%
+}{%
+Johnson%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+medium_comparison_2024}
+\APACinsertmetastar {%
+medium_comparison_2024}%
+\begin{APACrefauthors}%
+Johnson, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Comparing Data Science Notebook Environments in 2024: Jupyter vs Colab vs DeepNote vs Kaggle.} {Comparing data science notebook environments in 2024: Jupyter vs colab vs deepnote vs kaggle.}
+\newblock
+\begin{APACrefURL} \url{https://towardsdatascience.com/comparing-data-science-notebook\\-environments-in-2024-jupyter-vs-colab-vs-deepnote-vs-kaggle\\-db1e01bd6a56} \end{APACrefURL}
+\newblock
+\APACrefnote{Accedido: Mayo 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jupyter%
+}{%
+Jupyter%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+jupyter_blog_2021}
+\APACinsertmetastar {%
+jupyter_blog_2021}%
+\begin{APACrefauthors}%
+Jupyter, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {JupyterLab 3.0 is released!} {Jupyterlab 3.0 is released!}
+\newblock
+\begin{APACrefURL} \url{https://blog.jupyter.org/jupyterlab-3-0-is-released-4f58385e25bb} \end{APACrefURL}
+\newblock
+\APACrefnote{Accedido: Mayo 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{JupyterLab Team}%
+}{%
+{JupyterLab Team}%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+jupyterlab_docs}
+\APACinsertmetastar {%
+jupyterlab_docs}%
+\begin{APACrefauthors}%
+{JupyterLab Team}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {JupyterLab Documentation.} {Jupyterlab documentation.}
+\newblock
+\begin{APACrefURL} \url{https://jupyterlab.readthedocs.io/} \end{APACrefURL}
+\newblock
+\APACrefnote{Accedido: Mayo 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Kaggle}%
+}{%
+{Kaggle}%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+kaggle_datasets}
+\APACinsertmetastar {%
+kaggle_datasets}%
+\begin{APACrefauthors}%
+{Kaggle}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {Explore Datasets on Kaggle.} {Explore datasets on kaggle.}
+\newblock
+\begin{APACrefURL} \url{https://www.kaggle.com/datasets} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-05-10}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Kaggle}%
+}{%
+{Kaggle}%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+kaggle_origin}
+\APACinsertmetastar {%
+kaggle_origin}%
+\begin{APACrefauthors}%
+{Kaggle}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {Kaggle: Competitions, Datasets, and Discussions.} {Kaggle: Competitions, datasets, and discussions.}
+\newblock
+\begin{APACrefURL} \url{https://www.kaggle.com/about} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-05-10}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Kaggle}%
+}{%
+{Kaggle}%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+kaggle_docs}
+\APACinsertmetastar {%
+kaggle_docs}%
+\begin{APACrefauthors}%
+{Kaggle}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {3}}}{}{}.
+\newblock
+\APACrefbtitle {Kaggle Documentation.} {Kaggle documentation.}
+\newblock
+\begin{APACrefURL} \url{https://www.kaggle.com/docs} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-05-10}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Perkel%
+}{%
+Perkel%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+perkel2018jupyter}
+\APACinsertmetastar {%
+perkel2018jupyter}%
+\begin{APACrefauthors}%
+Perkel, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Why Jupyter is data scientists' computational notebook of choice} {Why jupyter is data scientists' computational notebook of choice}.{\BBCQ}
+\newblock
+\BIn{} (\BVOL~563, \BPGS\ 145--147).
+\newblock
+\APACaddressPublisher{}{Nature Publishing Group}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Project Jupyter}%
+}{%
+{Project Jupyter}%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+jupyter2024}
+\APACinsertmetastar {%
+jupyter2024}%
+\begin{APACrefauthors}%
+{Project Jupyter}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Jupyter Notebook: Try Jupyter.} {Jupyter notebook: Try jupyter.}
+\newblock
+\begin{APACrefURL} \url{https://jupyter.org/try} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-05-10}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+u/intellectual citizen%
+}{%
+u/intellectual citizen%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+reddit2021}
+\APACinsertmetastar {%
+reddit2021}%
+\begin{APACrefauthors}%
+u/intellectual citizen.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {Is Google Colab good enough?} {Is google colab good enough?}
+\newblock
+\begin{APACrefURL} \url{https://www.reddit.com/r/learnpython/comments/lwdte7/\\is\_google\_colab\_good\_enough/} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-05-10}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

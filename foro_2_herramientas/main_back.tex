@@ -1,0 +1,261 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[total={6in,10in}]{geometry}
+\usepackage{adjustbox}
+\usepackage{tabularx}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{cite}
+\usepackage{apacite}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{mathptmx}
+
+\begin{document}
+\begin{center}
+    \Large \textbf{Herramientas de inteligencia artifial}
+\end{center}
+
+\noindent\textbf{Nombre:} Roberto Andres Alvarado Moreira \\
+\noindent\textbf{Fecha:} 11 de Mayo del 2025
+
+\section{Introducción}
+Para este foro presentaré las herramientas para trabajar de manera
+colaborativa con IA. En otras palabras, presentaré las herramientas que nos
+permiten trabajar, elaborar y presentar trabajos de inteligencia artificial.
+Me voy a centrar en aquellas presentadas en el trabajo
+\begin{itemize}
+    \item JupyterLab
+    \item GoogleColab
+    \item DeepNote
+    \item Kaggle
+\end{itemize}
+Para cada uno de ellos voy a presentar beneficios, documentación y facilidad de
+uso
+\section{JupyterLab}
+Esta herramienta fue desarrollada por ProjectJupyter, es de las más antiguas y
+de las más utilizadas para la enseñanza de programación en Python. Esta
+desarrollada para ser utilizada como una herramienta de
+desarrollo continuo, con lo que el kernel o "programa python"
+que esta corriendo en el
+background, tiene contexto de todo lo que se ha compilado para cada una de las
+celdas. Todas las herramientas que se analizan en este documento funcionan de
+manera similar a esta, sin embargo, JupyterLab es un entorno completo donde se pueden
+utilizar los jupyter-notebooks, los notebooks son aquellos donde se hace el
+desarrollo del proceso. \cite{jupyterlab_docs}.
+
+Su inicio comenzó como una herramienta local, entonces al inicio no tuvo
+integración con la nube, en la actualidad, podemos ver que este sistema tiene
+experimentos para una integración en la nube \cite{jupyter2024}
+
+\textbf{Docs:} https://jupyterlab.readthedocs.io/\cite{jupyterlab_docs}
+
+\subsection{Beneficios}
+\begin{itemize}
+    \item Herramienta totalmente portátil, como dentro de jupyter lab se
+        trabajan con jupyter-notebooks, todos los entornos donde se trabaja
+        son archivos con extensión \textit{.ipynb} (Interative python notebook),
+        entonces si uno quiere mover sus datos a otro sistema que no sea web,
+        tenemos mucha facilidad en hacerlo\cite{jupyter_blog_2021}
+    \item Es muy personalizable, debido a su tiempo en la industria y las
+        necesidades de sus usuarios, tiene complementos para casi todo lo que
+        uno necesita.\cite{medium_comparison_2024}
+    \item Aunque no se sabe, esta herramienta pueden ser utilizadas con otros
+        lenguajes de programación, por ejemplo, con assembly, octane, etc.
+    \item Tiene una documentación amplia, y comunidad muy extensa con la que la
+        herramienta mejora cada vez más
+\end{itemize}
+\subsection{Desventajas}
+\begin{itemize}
+    \item No tiene un buen sistema de deployment, ya que no estaba destinado a
+        la nube desde su concepción, las herramientas colaborativas online son
+        limitadas, aunque se pueden conseguir, su objetivo no es ese.
+    \item El trabajo colaborativo en la actualidad no es posible sin la
+        intalación de herramientas externas, lo que hace que no sea una buena
+        herramienta para trabajar de lado a lado con otros desarrolladores
+    \item Son muy dependientes del environment de python donde se compila. Esto
+        quiere decir, ya que la herramienta es local, no tiene la facilidad de
+        otras de tener un buen conjunto de librerías de Python ya descargadas,
+        entonces es responsabilidad del usuario descargarlas.
+    \item Esta limitado completamente por los recursos de la máquina. Nuevamente
+        ya que no es una herramienta de la nube, todo lo que se procesa en la
+        los notebooks de JupyterLab, utilizan recursos de la computadora local.
+\end{itemize}
+\subsection{Facilidad de uso}
+La herramienta es muy fácil de instalar y de utilizar para aprendizaje. Sin
+embargo, como alguien dijo alguna vez, \textquotedbl Un gran poder conlleva una gran
+responsabilidad", con JupyterLab tienes un control completo del environment, lo
+que quiere decir que es responsabilidad del usuario, instalar las dependencias
+de librerías, asegurarse que el entorno este organizado, y los limitantes están
+en los recursos locales de la máquina.\cite{perkel2018jupyter}
+
+Ahora, aunque un beneficio es que los notebooks donde se trabajan sean
+completamente portables, uno tiene la responsabilidad de asegurar que donde se
+trabaje tenga un environment apto para correr el notebook. Esto hace que la
+flexibilidad de trabajar en diferentes sistemas es limitada. Esto hace que sea
+más difícil de utilizar si el objetivo es un desarrollo colaborativo
+
+\section{GoogleColab}
+
+GoogleColab es una herramienta creada por Google, para imitar la funcionalidad
+de JupyterLab con una integración a los servicios de la nube que la empresa
+provee. Es gratuito pero puede agregarse una
+subscripción para mejorar los recursos que se pueden utilizar. Fue creada
+creada para el trabajo colaborativo entre desarrolladores, tiene
+menos tiempo que JupyterLab, ya que fue creado en el año 2017 \cite{colab_faqs}.
+Su creciente uso, ha demostrado la necesidad del trabajo colaborativo entre
+usuarios, algo que previamente no era posible de manera sencilla por JupyterLab
+\cite{reddit2021}
+
+\textbf{Docs:} https://colab.research.google.com/notebooks/welcome.ipynb\cite{google_colab_docs}
+\subsection{Beneficios}
+\begin{itemize}
+    \item Es una herramienta fácil de acceder y su desarrollo con el objetivo
+        de ser una herramienta colaborativa, permite que varios usuarios
+        trabajen en el mismo notebook.\cite{google_colab_docs} al mismo tiempo
+    \item Tiene integración con GoogleDrive, lo que permite mantener un lugar en
+        la nube con los notebooks\cite{colab_faqs}
+    \item No requiere una instalación y simplemente se puede acceder mediante la
+        web
+    \item Los recursos, para correr los modelos, están en la nube, lo que permite
+        realizar procesos que no están limitados al entorno local. Tiene
+        posibilidades a subscripciones que permiten aumentar los GPU's y TPU's
+        que se tiene acceso
+    \item Tiene integración nativa con librerías que siempre se utilizan, por lo
+        que no es necesario estar manejando de manera local las librerías
+\end{itemize}
+\subsection{Desventajas}
+\begin{itemize}
+    \item Como es una herramienta en la nube requiere internet para utilizarse
+    \item Como es una herramienta de Google, no es 100\% flexible con las
+        extensiones, por lo que la flexibilidad de personalizar el entorno esta
+        limitado a lo Google desarrolla. Puede ser personalizada, pero no tanto
+        como Jupyter
+    \item Es necesario tener una cuenta de Google para utilizarla, lo que no es
+        bueno \cite{google_colab_docs}
+    \item Como se trabaja dentro de un sistema privado, no se tiene seguridad en
+        los datos de aprendizaje. No se han presentado problemas que yo sepa,
+        pero es algo a considerar por si se tiene datos sensibles.
+\end{itemize}
+\subsection{Facilidad de uso}
+Es una herramienta fácil de utilizar, no require instalación simplemente una
+conexión a internet. Es simple, en el sentido que todo lo que se necesita para
+un uso no profesional ni de deployment de modelos esta implementado. No se
+un manejo de environment, ya que el kernel de Python se corre en maquinas en la
+nube.
+Su poca personalización, conlleva que uno esta limitado a los features hechos
+por Google, por lo que no es posible hacer una implementación de un feature
+personalizado
+
+\section{DeepNote}
+DeepNote es una plataforma moderna para trabajar con datos que funciona
+completamente en la nube. Es como un notebook digital donde puedes escribir y
+ejecutar código, especialmente para análisis de datos, sin necesidad de instalar
+nada en tu computadora.\cite{deepnote_docs}
+
+\textbf{Docs:} https://docs.deepnote.com/\cite{deepnote_docs}
+\subsection{Beneficios}\cite{deepnote_features}
+\begin{itemize}
+    \item Funciona completamente en la nube, sin necesidad de instalaciones, lo
+        que hace que sea una herramienta muy flexible entre sistemas
+    \item Al igual que GoogleColab permite colaboración en tiempo real entre
+        múltiples usuarios
+    \item A diferencia de otras herramientas, tiene una integración para hacer
+        tareas automatizadas
+    \item Organización de proyectos con estructura clara
+    \item Los recursos, para correr los modelos, están en la nube, lo que permite
+        realizar procesos que no están limitados al entorno local. Tiene
+        posibilidades a subscripciones que permiten aumentar los GPU's y TPU's
+        que se tiene acceso
+\end{itemize}
+\subsection{Desventajas}
+\begin{itemize}
+    \item Como es una herramienta en la nube requiere internet para utilizarse
+    \item Recursos computacionales limitados en la versión gratuita
+    \item Al igual que GoogleColab, como no es una herramienta de código
+        abierto, esta limitada a los features que la compañia nos da, por lo que
+        no es personalizable
+    \item Tiene un sistema de almacenamiento en la nube, pero es muy limitado y
+        no tan fácil de manejar como google drive
+    \item Se han presentado algunos problemas cuando se trabaja con bases de
+        datos muy grandes \cite{medium_comparison_2024}
+    \item Como se trabaja dentro de un sistema privado, no se tiene seguridad en
+        los datos de aprendizaje. No se han presentado problemas que yo sepa,
+        pero es algo a considerar por si se tiene datos sensibles.
+    \item Personalmente, es la peor herramienta junto a kaggle para trabajar, ya
+        editar código es terrible, no tiene un buen sistema de edición y
+        prefiero utilizarlo simplemente como una herramienta de deployment de
+        los resultados de un notebook creado por otro sistema.
+\end{itemize}
+\subsection{Facilidad de uso}
+Tiene varias de las características de GoogleColab, fácil uso, no requiere
+instalación, se puede acceder de todas partes. Sin embargo, a diferencia de
+GoogleColab es mucho más especializado, aunque eso nos da más posibilidades para
+usarse, eso hace que sea una herramienta difícil de utilizar si es que no se
+tiene una idea de los que se necesita para los modelos.
+
+No tiene tantas herramientas para editar texto, y si las hay, no se comparan en
+facilidad con las implementaciones de JupyterLab o GoogleColab. Lo veo más como
+una herramienta de publicación de notebooks más que un lugar para trabajar
+
+\section{Kaggle}
+Kaggle Notebooks es una herramienta similar a DeepNote con un origen diferente,
+tiene la funcionalidad de ser utilizado como un conjunto de notebooks
+interactivos de Python. Originalmente,
+Kaggle empezó como una plataforma para competencias de ciencia de datos y
+machine learning, donde los usuarios subían notebooks basadas en conjuntos de
+datos públicos \cite{kaggle_origin}. Los notebooks aparecieron después, como una
+forma de facilitar la colaboración y la ejecución de código dentro del
+ecosistema de Kaggle.
+
+\textbf{Docs:} [https://www.kaggle.com/docs](https://www.kaggle.com/docs)\cite{kaggle_docs}
+
+\subsection{Beneficios}\cite{kaggle_features}
+\begin{itemize}
+    \item Funciona completamente en la nube, sin necesidad de instalaciones
+        locales, lo que hace que sea accesible desde cualquier dispositivo con
+        internet
+    \item Permite acceso directo a miles de datasets públicos de forma gratuita,
+        algo que facilita mucho la investigación preliminar
+        \cite{kaggle_datasets}
+    \item Facilita el compartir notebooks, lo que hace que la colaboración entre
+        científicos de datos sea muy sencilla
+    \item Tiene integración automática con GPUs y TPUs (aunque limitadas), lo
+        que permite entrenar modelos de machine learning sin tener hardware
+        propio
+    \item La comunidad es muy activa, por lo que es fácil encontrar notebooks
+        ejemplo para casi cualquier problema de ciencia de datos
+\end{itemize}
+
+\subsection{Desventajas}
+\begin{itemize}
+    \item Hay límites estrictos de memoria y tiempo de ejecución, sobre todo en
+        notebooks gratuitos (normalmente 9 horas máximo)
+        \cite{kaggle_limitations}
+    \item Es más difícil de personalizar en comparación con JupyterLab.
+        Por ejemplo, instalar paquetes específicos puede ser un martirio,
+        si no están en las versiones compatibles de Kaggle
+    \item Como es un ambiente cerrado, no se puede modificar como utilizar los
+        recursos (por ejemplo, no puedes elegir cambiar de una GPU a otra)
+    \item Al igual que DeepNote, el editor de código es malo; no se siente tan
+        fluido como trabajar en JupyterLab.
+\end{itemize}
+
+\subsection{Facilidad de uso}
+Kaggle Notebooks es extremadamente fácil de usar si el objetivo es hacer
+prototipos rápidos o participar en competencias de ciencia de datos. Solo
+necesitas una cuenta y puedes empezar a correr código directamente. Sin embargo,
+cuando se busca algo más profesional o robusto, como proyectos de producción o
+modelos muy pesados, Kaggle se queda corto.
+
+Otra cosa que no me gusta mucho es que, al igual que en DeepNote, editar el
+código no es muy cómodo. El sistema de indentación automática a veces falla, y
+si tu notebook crece mucho \cite{kaggle_limitations}, puede volverse bastante lento para trabajar. Para
+mí, Kaggle Notebooks es una buena herramienta para buscar databases o para
+publicar, pero no para desarrollar proyectos.
+
+
+\newpage
+\bibliography{main.bib}
+\bibliographystyle{apacite}
+\end{document}
