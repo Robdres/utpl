@@ -1,0 +1,16 @@
+artifact_uri: file:///home/robdres/utpl/practica2_herra/src/mlruns/637883185831017940/da69e38175474bb3990694d0e3ca99cb/artifacts
+deleted_time: 1747576062230
+end_time: 1747575829093
+entry_point_name: ''
+experiment_id: '637883185831017940'
+lifecycle_stage: deleted
+run_id: da69e38175474bb3990694d0e3ca99cb
+run_name: sneaky-squid-787
+run_uuid: da69e38175474bb3990694d0e3ca99cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747575829061
+status: 4
+tags: []
+user_id: robdres

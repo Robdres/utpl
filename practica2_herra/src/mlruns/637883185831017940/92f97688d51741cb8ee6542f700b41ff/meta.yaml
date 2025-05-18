@@ -1,0 +1,16 @@
+artifact_uri: file:///home/robdres/utpl/practica2_herra/src/mlruns/637883185831017940/92f97688d51741cb8ee6542f700b41ff/artifacts
+deleted_time: 1747576062225
+end_time: 1747575745515
+entry_point_name: ''
+experiment_id: '637883185831017940'
+lifecycle_stage: deleted
+run_id: 92f97688d51741cb8ee6542f700b41ff
+run_name: polite-fawn-892
+run_uuid: 92f97688d51741cb8ee6542f700b41ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747575743438
+status: 3
+tags: []
+user_id: robdres

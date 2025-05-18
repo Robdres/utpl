@@ -1,0 +1,16 @@
+artifact_uri: file:///home/robdres/utpl/practica2_herra/src/mlruns/637883185831017940/dab902c55b114f85b3207eed0f06fb7b/artifacts
+deleted_time: 1747576062221
+end_time: 1747575910052
+entry_point_name: ''
+experiment_id: '637883185831017940'
+lifecycle_stage: deleted
+run_id: dab902c55b114f85b3207eed0f06fb7b
+run_name: tasteful-shark-839
+run_uuid: dab902c55b114f85b3207eed0f06fb7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747575908081
+status: 3
+tags: []
+user_id: robdres

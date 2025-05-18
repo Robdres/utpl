@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>ML Model Interface</title>
+
+</head>
+
+<body>
+    <h1>Predicción de fallo cardiáco</h1>
+        Roberto Alvarado <br>
+        UTPL <br>
+        Herramientas de inteligencia artificial <br>
+    <h3>Esta herramienta predice según un modelo de RandomForestClassification si una persona puede o no sufrir un falló cardiáco</h3>
+    <h3>Esta tiene un backend que funciona con mlflow, asi que no funciona si no está servidor en el puerto 9090 de mlflow.</h3>
+    <h3>La base de datos se puede encontrar en <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data"> https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data</a></h3>
+    <h1>Entrenar el modelo</h1>
+        <h3>Aqui puede hacer una llamada al servidor a entrenar el modelo, deberían aparecer cada nuevo entrenamiento en mlflow</h3>
+        Parámetros para el RandomForestClassification
+        <form id="train-form">
+            <label>Numero de estimadores: <input type="number" name="n_estimators" value="100" /></label><br>
+            <label>Depth máximo: <input type="number" name="max_depth" value="3" /></label><br>
+            <button type="submit">Entrenar</button>
+        </form>
+        <h2 id="train-result"></h2>
+        <h2 id="best"></h2>
+    <hr>
+    <h1>Predecir</h1>
+        <h3>Todos las descripciones de los atributos son una cita de la base de datos original</h3>
+    <form id="predict-form">
+        <label>Age: age of the patient [years]
+            <input name="Age" type="number" value="0" step="0.01">
+        </label><br />
+        <label>Sex: sex of the patient [M: Male, F: Female]
+            <select name="Sex" value="0">
+                <option value="0">M</option>
+                <option value="1">F</option>
+            </select>
+        </label><br />
+        <label>ChestPainType: chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY:
+            Asymptomatic]
+            <select name="ChestPainType" value="0">
+                <option value="0">ASY</option>
+                <option value="1">NAP</option>
+                <option value="2">ATA></option>
+                <option value="3">TA</option>
+            </select>
+        </label> <br />
+        <label>RestingBP: resting blood pressure [mm Hg]
+            <input name="RestingBP" type="number" value="0" step="0.01">
+        </label><br />
+        <label>Cholesterol: serum cholesterol [mm/dl]
+            <input name="Cholesterol" type="number" value="0.2" step="0.01">
+        </label><br />
+        <label>FastingBS: fasting blood sugar [1: if FastingBS > 120 mg/dl, 0: otherwise]
+            <select name="FastingBS" value="0">
+                <option value="0">FastingBS</option>
+                <option value="1">otherwise</option>
+            </select>
+        </label><br />
+        <label>RestingECG: resting electrocardiogram results [Normal: Normal, ST: having ST-T wave abnormality (T wave
+            inversions and/or ST elevation or depression of > 0.05 mV), LVH: showing probable or definite left
+            ventricular hypertrophy by Estes' criteria]
+            <select name="RestingECG" value="0">
+                <option value="0">Normal</option>
+                <option value="1">ST</option>
+                <option value="2">LBH</option>
+            </select>
+        </label><br />
+        <label>MaxHR: maximum heart rate achieved [Numeric value between 60 and 202]
+            <input name="MaxHR" type="number" value=0 step="0.01">
+        </label><br />
+        <label>ExerciseAngina: exercise-induced angina [Y: Yes, N: No]
+            <select name="ExerciseAngina" value="0">
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </select>
+        </label><br />
+        <label>Oldpeak: oldpeak [Numeric value measured in depression]
+            <input name="Oldpeak" type="number" step="0.01" value="0.0">
+        </label><br />
+        <label>ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
+            <select name="ST_Slope" value="0">
+                <option value="1">Up</option>
+                <option value="2">Down</option>
+                <option value="0">Flat</option>
+            </select>
+        </label><br />
+        <button type="submit">Predecir</button><br />
+    </form>
+    <h2 id="prediction-result"></h2>
+
+    <hr>
+    <h1>Probar el modelo</h1>
+    <p> Si quiere probar el modelo y lanzar una llamada sin ingresar datos, apreta el boton, esto hace una llamada para conseguir una columna
+        del database al azar y prueba el modelo</p>
+    <button id="test""> Probar</button><br />
+    <br>
+
+    <h3>Datos a probar</h2>
+    <p id="testing-data"></p>
+    <h3>Resultado real</h2>
+    <h3 id="prediction-result2"></h2>
+    <h3>Predicción modelo</h2>
+    <h3 id="prediction-result3"></h2>
+
+    <script src="/static/script.js"></script>
+</body>
+
+</html>
+

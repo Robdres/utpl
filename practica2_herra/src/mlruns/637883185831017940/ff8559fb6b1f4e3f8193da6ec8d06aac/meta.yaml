@@ -1,0 +1,16 @@
+artifact_uri: file:///home/robdres/utpl/practica2_herra/src/mlruns/637883185831017940/ff8559fb6b1f4e3f8193da6ec8d06aac/artifacts
+deleted_time: 1747576062226
+end_time: 1747575769409
+entry_point_name: ''
+experiment_id: '637883185831017940'
+lifecycle_stage: deleted
+run_id: ff8559fb6b1f4e3f8193da6ec8d06aac
+run_name: able-ox-698
+run_uuid: ff8559fb6b1f4e3f8193da6ec8d06aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747575767512
+status: 3
+tags: []
+user_id: robdres

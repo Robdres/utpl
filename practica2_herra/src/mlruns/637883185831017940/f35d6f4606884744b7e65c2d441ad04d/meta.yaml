@@ -1,0 +1,16 @@
+artifact_uri: file:///home/robdres/utpl/practica2_herra/src/mlruns/637883185831017940/f35d6f4606884744b7e65c2d441ad04d/artifacts
+deleted_time: 1747576062222
+end_time: 1747575854323
+entry_point_name: ''
+experiment_id: '637883185831017940'
+lifecycle_stage: deleted
+run_id: f35d6f4606884744b7e65c2d441ad04d
+run_name: efficient-stork-788
+run_uuid: f35d6f4606884744b7e65c2d441ad04d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747575854310
+status: 4
+tags: []
+user_id: robdres

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/robdres/utpl/practica2_herra/src/mlruns/637883185831017940/63a7b582856d4d3c884d484d5366ec2c/artifacts
+end_time: 1747575916305
+entry_point_name: ''
+experiment_id: '637883185831017940'
+lifecycle_stage: active
+run_id: 63a7b582856d4d3c884d484d5366ec2c
+run_name: stylish-hare-804
+run_uuid: 63a7b582856d4d3c884d484d5366ec2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747575914199
+status: 3
+tags: []
+user_id: robdres

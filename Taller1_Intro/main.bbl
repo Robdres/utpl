@@ -1,0 +1,561 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{tribe_ai_hospital_resource}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3329f97bb38edb9670657890e5133fa8}{%
+           family={AI},
+           familyi={A\bibinitperiod},
+           given={Tribe},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{fullhash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{fullhashraw}{3329f97bb38edb9670657890e5133fa8}
+      \strng{bibnamehash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{authorbibnamehash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{authornamehash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{authorfullhash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{authorfullhashraw}{3329f97bb38edb9670657890e5133fa8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consultado en mayo de 2025}
+      \field{title}{AI in Hospital Resource Management: How It Enhances and Reduces Costs}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.tribe.ai/applied-ai/ai-and-hospital-resource-management
+      \endverb
+      \verb{url}
+      \verb https://www.tribe.ai/applied-ai/ai-and-hospital-resource-management
+      \endverb
+    \endentry
+    \entry{Revo2023}{misc}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=44ba9c61de146e53df3ec0208800de1e}{%
+           family={Alowais},
+           familyi={A\bibinitperiod},
+           given={Shuroug\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0085895d030a6e5b90960bb779e8a3ea}{%
+           family={Alghamdi},
+           familyi={A\bibinitperiod},
+           given={Sahar\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08f6819503fd2408d53dbfe394646534}{%
+           family={Alsuhebany},
+           familyi={A\bibinitperiod},
+           given={Nada},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2907c4f6dd1408a9399376c711156a0}{%
+           family={Alqahtani},
+           familyi={A\bibinitperiod},
+           given={Tariq},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8b62701c1bc32a1623e9f67995926b4}{%
+           family={Alshaya},
+           familyi={A\bibinitperiod},
+           given={Abdulrahman\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9332ccbe878c219a369178d86ddb342}{%
+           family={Almohareb},
+           familyi={A\bibinitperiod},
+           given={Sumaya\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18342b396ca938999f735abd84fe86c9}{%
+           family={Aldairem},
+           familyi={A\bibinitperiod},
+           given={Atheer},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca0fb8a338becc648e6a9d3d2ba6e06f}{%
+           family={Alrashed},
+           familyi={A\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc5e51ce4c5ac8eae9c2981fbdf380c1}{%
+           family={Bin\bibnamedelima Saleh},
+           familyi={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Khalid},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cb8c15708eae0a50907ecde1946c100}{%
+           family={Badreldin},
+           familyi={B\bibinitperiod},
+           given={Hisham\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{95ceb0d7409c79de9cff2ea690e72f07}
+      \strng{fullhash}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \strng{fullhashraw}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \strng{bibnamehash}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \strng{authorbibnamehash}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \strng{authornamehash}{95ceb0d7409c79de9cff2ea690e72f07}
+      \strng{authorfullhash}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \strng{authorfullhashraw}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BioMed Central}
+      \field{month}{9}
+      \field{title}{Revolutionizing Healthcare: The role of Artificial Intelligence in Clinical Practice - BMC Medical Education}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+      \endverb
+      \verb{url}
+      \verb https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+      \endverb
+    \endentry
+    \entry{fresenius_ai_ckd}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff80a6d0bdde138c2545e8b22cafd9b7}{%
+           family={Care},
+           familyi={C\bibinitperiod},
+           given={Fresenius\bibnamedelima Medical},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{fullhash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{fullhashraw}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{bibnamehash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{authorbibnamehash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{authornamehash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{authorfullhash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{authorfullhashraw}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consultado en mayo de 2025}
+      \field{title}{5 Ways Artificial Intelligence (AI) Is Impacting Kidney Disease}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.freseniusmedicalcare.com/en-us/insights/articles/5-ways-artificial-intelligence-ai-impacting-kidney-disease/
+      \endverb
+      \verb{url}
+      \verb https://www.freseniusmedicalcare.com/en-us/insights/articles/5-ways-artificial-intelligence-ai-impacting-kidney-disease/
+      \endverb
+    \endentry
+    \entry{bcrf_ai_breast_cancer}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2177e26bd321117fdf5de54b763c8393}{%
+           family={Foundation},
+           familyi={F\bibinitperiod},
+           given={Breast\bibnamedelimb Cancer\bibnamedelima Research},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{fullhash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{fullhashraw}{2177e26bd321117fdf5de54b763c8393}
+      \strng{bibnamehash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{authorbibnamehash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{authornamehash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{authorfullhash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{authorfullhashraw}{2177e26bd321117fdf5de54b763c8393}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consultado en mayo de 2025}
+      \field{title}{AI Breast Cancer Detection and Diagnosis}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.bcrf.org/blog/ai-breast-cancer-detection-screening/
+      \endverb
+      \verb{url}
+      \verb https://www.bcrf.org/blog/ai-breast-cancer-detection-screening/
+      \endverb
+    \endentry
+    \entry{Luka2021}{misc}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=3848410f2fd0f8b2b3e83851cc33a5cc}{%
+           family={Łukasiewicz},
+           familyi={Ł\bibinitperiod},
+           given={Sergiusz},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=246606064a87f2025a4ccbab93e9547b}{%
+           family={Czeczelewski},
+           familyi={C\bibinitperiod},
+           given={Marcin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=207b4b5488af7b1e857d296bf4b7fe9d}{%
+           family={Forma},
+           familyi={F\bibinitperiod},
+           given={Alicja},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e0ec3a30e1c0080b1f663959d57efff}{%
+           family={Baj},
+           familyi={B\bibinitperiod},
+           given={Jacek},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a55bd20b48800bfd9a612c8218a99c8}{%
+           family={Sitarz},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f0f4bb6f515aeeea9f801b090ad426b}{%
+           family={Stanisławek},
+           familyi={S\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {U.S. National Library of Medicine}%
+      }
+      \strng{namehash}{37caa7cf3cd7182ce1ffea1712f6b513}
+      \strng{fullhash}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \strng{fullhashraw}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \strng{bibnamehash}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \strng{authorbibnamehash}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \strng{authornamehash}{37caa7cf3cd7182ce1ffea1712f6b513}
+      \strng{authorfullhash}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \strng{authorfullhashraw}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \field{sortinit}{Ł}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cancers}
+      \field{month}{8}
+      \field{title}{Breast cancer-epidemiology, risk factors, classification, prognostic markers, and current treatment strategies-an updated review}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC8428369/
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC8428369/
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{tribe_ai_hospital_resource}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3329f97bb38edb9670657890e5133fa8}{%
+           family={AI},
+           familyi={A\bibinitperiod},
+           given={Tribe},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{fullhash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{fullhashraw}{3329f97bb38edb9670657890e5133fa8}
+      \strng{bibnamehash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{authorbibnamehash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{authornamehash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{authorfullhash}{3329f97bb38edb9670657890e5133fa8}
+      \strng{authorfullhashraw}{3329f97bb38edb9670657890e5133fa8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consultado en mayo de 2025}
+      \field{title}{AI in Hospital Resource Management: How It Enhances and Reduces Costs}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.tribe.ai/applied-ai/ai-and-hospital-resource-management
+      \endverb
+      \verb{url}
+      \verb https://www.tribe.ai/applied-ai/ai-and-hospital-resource-management
+      \endverb
+    \endentry
+    \entry{Revo2023}{misc}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=44ba9c61de146e53df3ec0208800de1e}{%
+           family={Alowais},
+           familyi={A\bibinitperiod},
+           given={Shuroug\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0085895d030a6e5b90960bb779e8a3ea}{%
+           family={Alghamdi},
+           familyi={A\bibinitperiod},
+           given={Sahar\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08f6819503fd2408d53dbfe394646534}{%
+           family={Alsuhebany},
+           familyi={A\bibinitperiod},
+           given={Nada},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2907c4f6dd1408a9399376c711156a0}{%
+           family={Alqahtani},
+           familyi={A\bibinitperiod},
+           given={Tariq},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8b62701c1bc32a1623e9f67995926b4}{%
+           family={Alshaya},
+           familyi={A\bibinitperiod},
+           given={Abdulrahman\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9332ccbe878c219a369178d86ddb342}{%
+           family={Almohareb},
+           familyi={A\bibinitperiod},
+           given={Sumaya\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18342b396ca938999f735abd84fe86c9}{%
+           family={Aldairem},
+           familyi={A\bibinitperiod},
+           given={Atheer},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca0fb8a338becc648e6a9d3d2ba6e06f}{%
+           family={Alrashed},
+           familyi={A\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc5e51ce4c5ac8eae9c2981fbdf380c1}{%
+           family={Bin\bibnamedelima Saleh},
+           familyi={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Khalid},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cb8c15708eae0a50907ecde1946c100}{%
+           family={Badreldin},
+           familyi={B\bibinitperiod},
+           given={Hisham\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{95ceb0d7409c79de9cff2ea690e72f07}
+      \strng{fullhash}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \strng{fullhashraw}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \strng{bibnamehash}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \strng{authorbibnamehash}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \strng{authornamehash}{95ceb0d7409c79de9cff2ea690e72f07}
+      \strng{authorfullhash}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \strng{authorfullhashraw}{d8e80a0b504fa15638ebee3a2e3b6ac2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BioMed Central}
+      \field{month}{9}
+      \field{title}{Revolutionizing Healthcare: The role of Artificial Intelligence in Clinical Practice - BMC Medical Education}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+      \endverb
+      \verb{url}
+      \verb https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+      \endverb
+    \endentry
+    \entry{fresenius_ai_ckd}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff80a6d0bdde138c2545e8b22cafd9b7}{%
+           family={Care},
+           familyi={C\bibinitperiod},
+           given={Fresenius\bibnamedelima Medical},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{fullhash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{fullhashraw}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{bibnamehash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{authorbibnamehash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{authornamehash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{authorfullhash}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \strng{authorfullhashraw}{ff80a6d0bdde138c2545e8b22cafd9b7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consultado en mayo de 2025}
+      \field{title}{5 Ways Artificial Intelligence (AI) Is Impacting Kidney Disease}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.freseniusmedicalcare.com/en-us/insights/articles/5-ways-artificial-intelligence-ai-impacting-kidney-disease/
+      \endverb
+      \verb{url}
+      \verb https://www.freseniusmedicalcare.com/en-us/insights/articles/5-ways-artificial-intelligence-ai-impacting-kidney-disease/
+      \endverb
+    \endentry
+    \entry{bcrf_ai_breast_cancer}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2177e26bd321117fdf5de54b763c8393}{%
+           family={Foundation},
+           familyi={F\bibinitperiod},
+           given={Breast\bibnamedelimb Cancer\bibnamedelima Research},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{fullhash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{fullhashraw}{2177e26bd321117fdf5de54b763c8393}
+      \strng{bibnamehash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{authorbibnamehash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{authornamehash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{authorfullhash}{2177e26bd321117fdf5de54b763c8393}
+      \strng{authorfullhashraw}{2177e26bd321117fdf5de54b763c8393}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consultado en mayo de 2025}
+      \field{title}{AI Breast Cancer Detection and Diagnosis}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.bcrf.org/blog/ai-breast-cancer-detection-screening/
+      \endverb
+      \verb{url}
+      \verb https://www.bcrf.org/blog/ai-breast-cancer-detection-screening/
+      \endverb
+    \endentry
+    \entry{Luka2021}{misc}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=3848410f2fd0f8b2b3e83851cc33a5cc}{%
+           family={Łukasiewicz},
+           familyi={Ł\bibinitperiod},
+           given={Sergiusz},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=246606064a87f2025a4ccbab93e9547b}{%
+           family={Czeczelewski},
+           familyi={C\bibinitperiod},
+           given={Marcin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=207b4b5488af7b1e857d296bf4b7fe9d}{%
+           family={Forma},
+           familyi={F\bibinitperiod},
+           given={Alicja},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e0ec3a30e1c0080b1f663959d57efff}{%
+           family={Baj},
+           familyi={B\bibinitperiod},
+           given={Jacek},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a55bd20b48800bfd9a612c8218a99c8}{%
+           family={Sitarz},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f0f4bb6f515aeeea9f801b090ad426b}{%
+           family={Stanisławek},
+           familyi={S\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {U.S. National Library of Medicine}%
+      }
+      \strng{namehash}{37caa7cf3cd7182ce1ffea1712f6b513}
+      \strng{fullhash}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \strng{fullhashraw}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \strng{bibnamehash}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \strng{authorbibnamehash}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \strng{authornamehash}{37caa7cf3cd7182ce1ffea1712f6b513}
+      \strng{authorfullhash}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \strng{authorfullhashraw}{9079ef06e4d01ac06c87d2efbce91fd3}
+      \field{sortinit}{Ł}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cancers}
+      \field{month}{8}
+      \field{title}{Breast cancer-epidemiology, risk factors, classification, prognostic markers, and current treatment strategies-an updated review}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC8428369/
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC8428369/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

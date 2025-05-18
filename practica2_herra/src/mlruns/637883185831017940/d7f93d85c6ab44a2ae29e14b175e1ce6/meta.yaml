@@ -1,0 +1,16 @@
+artifact_uri: file:///home/robdres/utpl/practica2_herra/src/mlruns/637883185831017940/d7f93d85c6ab44a2ae29e14b175e1ce6/artifacts
+deleted_time: 1747576062231
+end_time: 1747575891816
+entry_point_name: ''
+experiment_id: '637883185831017940'
+lifecycle_stage: deleted
+run_id: d7f93d85c6ab44a2ae29e14b175e1ce6
+run_name: selective-cub-194
+run_uuid: d7f93d85c6ab44a2ae29e14b175e1ce6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747575891788
+status: 4
+tags: []
+user_id: robdres
